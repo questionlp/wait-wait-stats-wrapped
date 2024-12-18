@@ -2,7 +2,7 @@
 
 ## Presentation Files
 
-The included "Wait Wait Stats Wrapped 2024" presentation files are licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, visit <https://creativecommons.org/licenses/by/4.0/>
+The included "Wait Wait Stats Wrapped 2024" presentation files are licensed under Creative Commons Attribution-ShareAlike 4.0 International. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/>
 
 ## Embedded Fonts
 
