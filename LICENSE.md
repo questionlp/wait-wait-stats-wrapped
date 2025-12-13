@@ -2,7 +2,7 @@
 
 ## Presentation Files
 
-The included "Wait Wait Stats Wrapped 2024" presentation files are licensed under Creative Commons Attribution-ShareAlike 4.0 International. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/>
+The included "Wait Wait Stats Wrapped" presentation files are licensed under Creative Commons Attribution-ShareAlike 4.0 International. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/>
 
 ## Embedded Fonts
 
@@ -16,7 +16,7 @@ The included presentation file(s) included embedded instances of the IBM Plex an
 
 The included SQL scripts are licensed under the terms of the MIT License:
 
-Copyright 2024 Linh Pham
+Copyright 2024-2025 Linh Pham
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
