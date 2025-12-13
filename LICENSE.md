@@ -6,11 +6,9 @@ The included "Wait Wait Stats Wrapped" presentation files are licensed under Cre
 
 ## Embedded Fonts
 
-The included presentation file(s) included embedded instances of the IBM Plex and Inter fonts.
+The included presentation file(s) included embedded instances of the IBM Plex Sans font.
 
 [IBM Plex](https://github.com/IBM/plex/) is licensed under the terms of the [SIL Open Font License Version 1.1](https://github.com/IBM/plex/blob/master/LICENSE.txt).
-
-[Inter](https://github.com/rsms/inter) is licensed under the terms of the [SIL Open Font License Version 1.1](https://github.com/rsms/inter/blob/master/LICENSE.txt).
 
 ## Database Scripts
 
