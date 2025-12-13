@@ -1,3 +1,4 @@
-2024/presentation/.~lock.Wait Wait Stats Wrapped 2024.odp#
-2025/presentation/.~lock.Wait Wait Stats Wrapped 2025.odp#
+# Exclude lock files
+.~lock.*
+
 web-mockup
