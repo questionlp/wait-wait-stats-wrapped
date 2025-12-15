@@ -17,4 +17,4 @@ charset = utf-8
 
 # 2 space indentation
 [*.sql]
-indent_size = 2
+indent_size = 4
