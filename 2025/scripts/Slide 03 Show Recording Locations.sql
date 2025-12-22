@@ -10,7 +10,6 @@ SELECT
             JOIN ww_showlocationmap lm ON lm.showid = s.showid
             JOIN ww_locations l ON l.locationid = lm.locationid
         WHERE YEAR(s.showdate) = 2025
-            AND s.bestof = 0
             AND s.repeatshowid IS NULL
             AND l.city = 'Chicago'
             AND l.state = 'IL')  AS 'home',
@@ -19,7 +18,6 @@ SELECT
             JOIN ww_showlocationmap lm ON lm.showid = s.showid
             JOIN ww_locations l ON l.locationid = lm.locationid
         WHERE YEAR(s.showdate) = 2025
-            AND s.bestof = 0
             AND s.repeatshowid IS NULL
             AND l.city <> 'Chicago'
             AND l.state <> 'IL') AS 'away'
