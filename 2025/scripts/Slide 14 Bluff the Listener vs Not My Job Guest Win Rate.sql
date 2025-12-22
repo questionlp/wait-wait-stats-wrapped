@@ -27,7 +27,7 @@ SELECT
         AND (gm.guestscore < 2 AND gm.exception = 0)
 ) AS 'guest_losses',
 (
-    SELECT s.showdate -- COUNT(s.showid)
+    SELECT COUNT(s.showid)
     FROM ww_showbluffmap blm
         JOIN ww_shows s ON s.showid = blm.showid
     WHERE YEAR(s.showdate) = 2025
@@ -37,7 +37,7 @@ SELECT
         AND blm.chosenbluffpnlid = blm.correctbluffpnlid
 ) AS 'bluff_correct',
 (
-    SELECT s.showdate -- COUNT(s.showid)
+    SELECT COUNT(s.showid)
     FROM ww_showbluffmap blm
         JOIN ww_shows s ON s.showid = blm.showid
     WHERE YEAR(s.showdate) = 2025

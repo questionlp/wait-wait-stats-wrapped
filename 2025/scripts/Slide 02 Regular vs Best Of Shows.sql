@@ -14,4 +14,9 @@ SELECT
         FROM ww_shows s
         WHERE YEAR(s.showdate) = 2025
             AND s.bestof = 1
-            AND s.repeatshowid IS NULL) AS 'best_of'
+            AND s.repeatshowid IS NULL) AS 'best_of_shows',
+    (SELECT COUNT(s.showdate)
+        FROM ww_shows s
+        WHERE YEAR(s.showdate) = 2025
+            AND s.bestof = 0
+            AND s.repeatshowid IS NOT NULL) AS 'repeat_shows'
