@@ -2,6 +2,8 @@
 
 This repository contains database scripts, data output, presentation file(s), and exported graphics files related to "Wait Wait Stats Wrapped".
 
+**Note:** The primary version of this repository now resides on Codeberg as [wait-wait-stats-wrapped](https://codeberg.org/qlp/wait-wait-stats-wrapped). The GitHub repository is now a mirror of the Codeberg repository.
+
 ## Licenses and Acknowledgements
 
 See [LICENSE.md](LICENSE.md) for more information.
